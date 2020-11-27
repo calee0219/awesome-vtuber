@@ -7,7 +7,18 @@ A curated list of awesome VTubers channel, social-media, tools, etc.
 
 <!--ts-->
 * [People](#people)
-  * []()
+  * [Cover Corp](#covercorp)
+    * [Hololive](#hololive)
+    * [Holostars](#holostars)
+    * [Hololive English](#hololiveenglish)
+    * [Hololive Indonesia](#hololiveindonesia)
+    * [Hololive China](#hololivechina)
+  * [Nijisanji Project](#nijisanjiproject)
+    * [Nijisanji](#nijisanji)
+    * [Games](#games)
+    * [SEEDs](#seeds)
+    * [VOIZ](#voiz)
+  * [Individual](#individual)
 * [Tools](#tools)
 
 <!--te-->
