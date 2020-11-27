@@ -7,13 +7,13 @@ A curated list of awesome VTubers channel, social-media, tools, etc.
 
 <!--ts-->
 * [People](#people)
-  * [Cover Corp](#covercorp)
+  * [Cover Corp](#cover-corp)
     * [Hololive](#hololive)
     * [Holostars](#holostars)
-    * [Hololive English](#hololiveenglish)
-    * [Hololive Indonesia](#hololiveindonesia)
-    * [Hololive China](#hololivechina)
-  * [Nijisanji Project](#nijisanjiproject)
+    * [Hololive English](#hololive-english)
+    * [Hololive Indonesia](#hololive-indonesia)
+    * [Hololive China](#hololive-china)
+  * [Nijisanji Project](#nijisanji-project)
     * [Nijisanji](#nijisanji)
     * [Games](#games)
     * [SEEDs](#seeds)
