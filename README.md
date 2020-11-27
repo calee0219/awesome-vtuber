@@ -199,6 +199,6 @@ A curated list of awesome VTubers channel, social-media, tools, etc.
 
 - Bafuko Seiso - [Youtube](https://www.youtube.com/channel/UC94NiQXdPedmfOE_qlIBd7Q) / [Twitter](https://twitter.com/bafuko_seiso)
 
-<
+</details>
 
 ## Tools
