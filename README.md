@@ -29,7 +29,7 @@ A curated list of awesome VTubers channel, social-media, tools, etc.
 
 #### Hololive
 
-##### Generation 0
+<details><summary><b>Generation 0</b></summary>
 
 - Tokino Sora - [Youbute]() / [Twitter]()
 - Roboco
@@ -37,7 +37,9 @@ A curated list of awesome VTubers channel, social-media, tools, etc.
 - Sakura Miko
 - AZKi
 
-##### Generation 1
+</details>
+
+<details><summary><b>Generation 1</b></summary>
 
 - Yozora Mel
 - Shirakami Fubuki
@@ -46,7 +48,9 @@ A curated list of awesome VTubers channel, social-media, tools, etc.
 - Akai Haato
 - Hitomi Chris
 
-##### Generation 2
+</details>
+
+<details><summary><b>Generation 2</b></summary>
 
 - Minato Aqua
 - Murasaki Shion
@@ -54,7 +58,9 @@ A curated list of awesome VTubers channel, social-media, tools, etc.
 - Yuzuki Choco
 - Oozora Subaru
 
-##### Generation 3
+</details>
+
+<details><summary><b>Generation 3</b></summary>
 
 - Usada Pekora
 - Uruha Rushia
@@ -62,7 +68,9 @@ A curated list of awesome VTubers channel, social-media, tools, etc.
 - Shirogane Noel
 - Houshou Marine
 
-##### Generation 4
+</details>
+
+<details><summary><b>Generation 4</b></summary>
 
 - Amane Kanata - [Youbute](https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg) / [Twitter](https://twitter.com/amanekanatach)
 - Kiryu Coco - [Youbute](https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w) / [Twitter](https://twitter.com/kiryucoco)
@@ -70,7 +78,9 @@ A curated list of awesome VTubers channel, social-media, tools, etc.
 - Tokoyami Towa - [Youbute](https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw) / [Twitter](https://twitter.com/tokoyamitowa)
 - Himemori Luna - [Youbute](https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw) / [Twitter](https://twitter.com/himemoriluna)
 
-##### Generation 5
+</details>
+
+<details><summary><b>Generation 5</b></summary>
 
 - Yukihana Lamy - [Youbute](https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw) / [Twitter](https://twitter.com/yukihanalamy)
 - Momosuzu Nene - [Youbute](https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA) / [Twitter](https://twitter.com/momosuzunene)
@@ -78,15 +88,19 @@ A curated list of awesome VTubers channel, social-media, tools, etc.
 - Mano Aloe - Retired
 - Omaru Polka - [Youbute](https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA) / [Twitter](https://twitter.com/omarupolka)
 
-##### Gamers
+</details>
+
+<details><summary><b>Games</b></summary>
 
 - Ookami Mio - [Youbute](https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg) / [Twitter](https://twitter.com/ookamimio)
 - Nekomata Okayu - [Youbute](https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw) / [Twitter](https://twitter.com/nekomataokayu)
 - Inugami Korone - [Youbute](https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q) / [Twitter](https://twitter.com/inugamikorone)
 
+</details>
+
 #### Holostars
 
-##### Generation 1
+<details><summary><b>Generation 1</b></summary>
 
 - Hanasaki Miyabi
 - Kagami Kira
@@ -95,19 +109,27 @@ A curated list of awesome VTubers channel, social-media, tools, etc.
 - Arurandeisu
 - Rikka
 
-##### Generation 2
+</details>
+
+<details><summary><b>Generation 2</b></summary>
 
 - Astel Leda
 - Kishido Temma
 - Yukoku Roberu
 
-##### Generation 3
+</details>
+
+<details><summary><b>Generation 3</b></summary>
 
 - Tsukishita Kaoru
 - Kageyama Shien
 - Aragami Oga
 
+</details>
+
 #### Hololive English
+
+<details>
 
 - Mori Calliope - [Youbute](https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg) / [Twitter](https://twitter.com/moricalliope) / [SoundCloud](https://soundcloud.com/user-694398002)
 - Takanashi Kiara - [Youbute](https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww) / [Twitter](https://twitter.com/takanashikiara)
@@ -115,46 +137,68 @@ A curated list of awesome VTubers channel, social-media, tools, etc.
 - Gawr Gura - [Youbute](https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g) / [Twitter](https://twitter.com/gawrgura)
 - Watson Amelia - [Youbute](https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg) / [Twitter](https://twitter.com/watsonameliaEN)
 
+</details>
+
 #### Hololive Indonesia
+
+<details>
 
 - Ayunda Risu
 - Moona Hoshinova
 - Airani Iofifteen
 
+</details>
+
 #### Hololive China
 
-##### Generation 1
+<details><summary><b>Generation 1</b></summary>
 
 - Yogiri - Retired 2020/12/20
 - Civia - Retired 2020/11/18
 - Spade Echo - Retired 2020/11/21
 
-##### Generation 2
+</details>
+
+<details><summary><b>Generation 2</b></summary>
 
 - Doris - Retired 2020/12/26
 - Rosalyn - Retired 2020/12/27
 - Artia - Retired 2020/11/19
 
+</details>
+
 ### Nijisanji Project
 
 #### Nijisanji
 
-##### Generation 1
+<details><summary><b>Generation 1</b></summary>
+ 
+</details>
 
-##### Generation 2
+<details><summary><b>Generation 2</b></summary>
+
+</details>
 
 #### Gamers
 
 #### SEEDs
 
-##### Generation 1
+<details><summary><b>Generation 1</b></summary>
+ 
+</details>
 
-##### Generation 2
+<details><summary><b>Generation 2</b></summary>
+ 
+</details>
 
 #### VOIZ
 
 ### Individual
 
+<details>
+
 - Bafuko Seiso - [Youtube](https://www.youtube.com/channel/UC94NiQXdPedmfOE_qlIBd7Q) / [Twitter](https://twitter.com/bafuko_seiso)
+
+<
 
 ## Tools
