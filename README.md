@@ -1,5 +1,8 @@
 # Awesome-VTubers
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/calee0219/awesome-5g/pulls)
+
+
 A curated list of awesome VTubers channel, social-media, tools, etc.
 
 ## Contents
@@ -31,11 +34,11 @@ A curated list of awesome VTubers channel, social-media, tools, etc.
 
 <details><summary><b>Generation 0</b></summary>
 
-- Tokino Sora - [Youbute]() / [Twitter]()
-- Roboco
-- Hoshimachi Suisei
-- Sakura Miko
-- AZKi
+- Tokino Sora - [Youbute](https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg) / [Twitter](https://twitter.com/tokino_sora)
+- Roboco - [Youtube](https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g) / [Twitter](https://twitter.com/robocosan)
+- Hoshimachi Suisei - [YouTube](https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A) / [Twitter](https://twitter.com/suisei_hosimati)
+- Sakura Miko - [YouTube](https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA) / [Twitter](https://twitter.com/sakuramiko35)
+- AZKi - [YouTube](https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw) / [Twitter](https://twitter.com/AZKi_VDiVA)
 
 </details>
 
