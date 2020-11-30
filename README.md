@@ -44,12 +44,12 @@ A curated list of awesome VTubers channel, social-media, tools, etc.
 
 <details><summary><b>Generation 1</b></summary>
 
-- Yozora Mel
-- Shirakami Fubuki
-- Natsuiro Matsuri
-- Aki Rosenthal
-- Akai Haato
-- Hitomi Chris
+- Yozora Mel - [YouTube](https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw) / [Twitter](https://twitter.com/yozoramel)
+- Shirakami Fubuki - [YouTube](https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg) / [Twitter](https://twitter.com/shirakamifubuki) / [OpenREC](https://www.openrec.tv/user/shirakamifubuki)
+- Natsuiro Matsuri - [YouTube](https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg) / [Twitter](https://twitter.com/natsuiromatsuri) / [OpenREC](https://www.openrec.tv/user/natsuiromatsuri)
+- Aki Rosenthal - [YouTube](https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA) / [Twitter](https://twitter.com/akirosenthal) / [TwitCasting](https://twitcasting.tv/akirosenthal) / [Mirrativ](https://www.mirrativ.com/user/3263526) / [OpenREC](https://www.openrec.tv/user/akirosenthal)
+- Akai Haato - [YouTube](https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg) / [Twitter](https://twitter.com/akaihaato)
+- Hitomi Chris - Retired 2018/6/26
 
 </details>
 
